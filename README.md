@@ -29,6 +29,14 @@ Sentinel-2 MSI images downloaded from [Copernicus](https://scihub.copernicus.eu/
 
 The objective was the estimation of vegetation cover, inland water and chlorophyll-a sea concentration of Sentinel-2 MSI data and supervised classification within a ROI.
 
+1. Data exploration: download of two summer and winter MSI images choosing a coastal target area (Tiber river estuary in Italy).
+   1. Combination of the B2, B3, B4 channels to create an RGB image
+   2. L2 MSI products for scene classification masks: cloud, vegetation, soil, water.
+   3. SNAP Graph Builder tool applied to a subset around a lake or a river, resampling of the channels at 10 meters and their visualization.
+2. Water and vegetation normalized index: NDWI and NDWI2 on winter product. 
+   1. Apply NDWI to highlight water content in the leaves and NDWI2 to build a water mask estimate chlorophyll-a (Chl-a) and total suspended sediments (TSS).
+   2. Computation of NDVI on winter and summer MSI resampled products.
+3. Sea Chlorophyll-a and sediment estimation:
 
 
 # Homework 03: Surface detection from SAR Sentinel-1 Data
