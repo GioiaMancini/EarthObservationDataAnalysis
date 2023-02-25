@@ -6,6 +6,12 @@ This repository contains three pdf files, one for each project undertaken during
 # Usage
 All the homeworks have been done through the use of the Sentinel Application Platform (SNAP) toolbox, an open source software which is used for Earh Observation processing and analysis. You can finde more information [here](http://step.esa.int/main/toolboxes/snap/) and you can download it [here](http://step.esa.int/main/download/snap-download/).
 
+# Data download
+The satellite image data are available from the following sources:
+* MODIS data from Terra and Aqua satellites from [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/search/)
+* MSI Sentinel-2 data from [Copernicus](https://scihub.copernicus.eu/)
+* SAR Sentinel-1 data from [Copernicus](https://scihub.copernicus.eu/)
+
 # Homework 01: Remote sensing of vegetation from MODIS
 
 Modis images from [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/search/).
