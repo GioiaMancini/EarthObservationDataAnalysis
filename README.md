@@ -1,5 +1,5 @@
 # Earth Observation Data Analysis - Projects
-Homeworks for the course Earth Observation Data Analysis, 2020, Sapienza University of Rome
+Homeworks for the course **Earth Observation Data Analysis**, 2020, Sapienza University of Rome
 
 This repository contains three pdf files, one for each project undertaken during the course Earth Observation Data Analysis (Control Engineering, DIAG, Sapienza University of Rome).
 
