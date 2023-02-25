@@ -17,6 +17,8 @@ The satellite image data are available from the following sources:
 Modis images from [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/search/).
 The objective of this homework was the quantitative detection of the vegetation coverage between two MODIS images representing the same region of interest (ROI) in the winter and summer seasons.
 
+
+
 1. Download of a MODIS image at 1-km resolution over a ROI during summer season.
    1. Quality check
    2. Data analysis (spectrum, histogram, profile tools)
