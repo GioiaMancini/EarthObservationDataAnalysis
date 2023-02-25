@@ -12,11 +12,11 @@ Modis images from [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/searc
 The objective of this homework was the quantitative detection of the vegetation coverage between two MODIS images representing the same region of interest (ROI) in the winter and summer seasons.
 
 1. Download of a MODIS image at 1-km resolution over a ROI during summer season.
-  1. Quality check
-  2. Data analysis (spectrum, histogram, profile tools)
-  3. Channel data correlation of whole image and selected ROI
-  4. Principal Component Analysis computation
-  5. Unsupervised and supervised classification with sea, land and cloud classes
+   1. Quality check
+   2. Data analysis (spectrum, histogram, profile tools)
+   3. Channel data correlation of whole image and selected ROI
+   4. Principal Component Analysis computation
+   5. Unsupervised and supervised classification with sea, land and cloud classes
 2. Application of the formulas of 2-band and 3-band vegetation index (VI)
 3. Unsupervised classification using a VI index in place of a MODIS channel
 4. Application of VI indices to the second MODIS image in the winter season
