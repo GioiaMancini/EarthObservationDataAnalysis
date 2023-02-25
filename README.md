@@ -3,16 +3,16 @@ Homeworks for the course **Earth Observation Data Analysis**, 2020, Sapienza Uni
 
 This repository contains three pdf files, one for each project undertaken during the course Earth Observation Data Analysis (Control Engineering, DIAG, Sapienza University of Rome).
 
-# Usage
+## Usage
 All the homeworks have been done through the use of the Sentinel Application Platform (SNAP) toolbox, an open source software which is used for Earh Observation processing and analysis. You can finde more information [here](http://step.esa.int/main/toolboxes/snap/) and you can download it [here](http://step.esa.int/main/download/snap-download/).
 
-# Data download
+## Data download
 The satellite image data are available from the following sources:
 * MODIS data from Terra and Aqua satellites from [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/search/)
 * MSI Sentinel-2 data from [Copernicus](https://scihub.copernicus.eu/)
 * SAR Sentinel-1 data from [Copernicus](https://scihub.copernicus.eu/)
 
-# Homework 01: Remote sensing of vegetation from MODIS :leaves: :fallen_leaf:
+## Homework 01: Remote sensing of vegetation from MODIS :leaves: :fallen_leaf:
 
 Modis images from [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/search/).
 The objective of this homework was the quantitative detection of the vegetation coverage between two MODIS images representing the same region of interest (ROI) in the winter and summer seasons.
@@ -29,7 +29,7 @@ The objective of this homework was the quantitative detection of the vegetation 
 5. Quantitative change detection of the vegetation coverage class by reprojecting the two MODIS images over the same grid in a ROI.
 exploration of MODIS satellite data and the application of SNAP classification tools and vegetation indices. We 
 
-# Homework 02: Surface mapping from MSI Sentinel-2 Data :herb: :droplet:
+## Homework 02: Surface mapping from MSI Sentinel-2 Data :herb: :droplet:
 
 Sentinel-2 MSI images downloaded from [Copernicus](https://scihub.copernicus.eu/).
 
@@ -52,7 +52,7 @@ The objective was the estimation of vegetation cover, inland water and chlorophy
    3. Comparison between the classifiers
 
 
-# Homework 03: Surface detection from SAR Sentinel-1 Data 
+## Homework 03: Surface detection from SAR Sentinel-1 Data 
 
 Images downloaded from [Copernicus](https://scihub.copernicus.eu/) and provided by ESA.
 
