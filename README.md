@@ -18,7 +18,6 @@ Modis images from [NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/searc
 The objective of this homework was the quantitative detection of the vegetation coverage between two MODIS images representing the same region of interest (ROI) in the winter and summer seasons.
 
 
-
 1. Download of a MODIS image at 1-km resolution over a ROI during summer season.
    1. Quality check
    2. Data analysis (spectrum, histogram, profile tools)
@@ -28,11 +27,15 @@ The objective of this homework was the quantitative detection of the vegetation 
 2. Application of the formulas of 2-band and 3-band vegetation index (VI)
 3. Unsupervised classification using a VI index in place of a MODIS channel
 4. Application of VI indices to the second MODIS image in the winter season
-5. Quantitative change detection of the vegetation coverage class by reprojecting the two MODIS images over the same grid in a ROI.
-exploration of MODIS satellite data and the application of SNAP classification tools and vegetation indices.
+5. Quantitative change detection of the vegetation coverage class by reprojecting the two MODIS images in July and January.
 
-[](docs/julyRreprojection.jpg)
+Here is the vegetation coverage of Italy in July and January seasons:
 
+<img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/julyReprojection.jpg" width="420"> <img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/januaryReprojection.jpg" width="400">
+
+Quantitative change detection:
+
+<img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/legenda.jpg" width="512">                                                                                                                       
 ## Homework 02: Surface mapping from MSI Sentinel-2 Data :herb: :droplet:
 
 Sentinel-2 MSI images downloaded from [Copernicus](https://scihub.copernicus.eu/).
