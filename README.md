@@ -29,7 +29,9 @@ The objective of this homework was the quantitative detection of the vegetation 
 3. Unsupervised classification using a VI index in place of a MODIS channel
 4. Application of VI indices to the second MODIS image in the winter season
 5. Quantitative change detection of the vegetation coverage class by reprojecting the two MODIS images over the same grid in a ROI.
-exploration of MODIS satellite data and the application of SNAP classification tools and vegetation indices. We 
+exploration of MODIS satellite data and the application of SNAP classification tools and vegetation indices.
+
+[](docs/julyRreprojection.jpg)
 
 ## Homework 02: Surface mapping from MSI Sentinel-2 Data :herb: :droplet:
 
