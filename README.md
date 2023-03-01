@@ -82,6 +82,8 @@ Chlorophyll-a and Total Suspended Sediments differences between the two seasons:
    1. Scene classification masks over an L2 MSI summer image defining vegetation, water, urban and bare soil as training areas.
    2. Reprojection and SNAP supervised classification algorithms (Maximum Likelihood and Random Forest).
    3. Comparison between the classifiers
+  
+<img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/ronciglione_class_masks_SUBSET.jpg" width="250"> <img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/ronciglione_class_ML_SUBSET.jpg" width="250"> <img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/ronciglione_class_RF_SUBSET.jpg" width="250">
 
 
 ## Homework 03: Surface detection from SAR Sentinel-1 Data 
@@ -90,10 +92,32 @@ Images downloaded from [Copernicus](https://scihub.copernicus.eu/) and provided 
 
 1. Earthquake detection by SAR differential interferometry (Amatrice Earthquake in 2016, Italy) 	:world_map:
    1. DInSAR processing steps
+
+Displacement map:
+
+<img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/displacement.jpg" width="300">
+
+Displacement map terrain corrected and displacement map in Google Earth:
+
+<img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/displacement_terrain_correction_JET_palette.jpg" width="300"> <img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/googleearth.jpg" width="320">
+
 2. Ship detection by SAR backscattering (Messina strait in 2020, Italy) :ship:
    1. SAR processing steps
+
+Detected ship in the Messina strait:
+
+<img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/ship%20detection_db.jpg" width="500">
+
 3. Flood detection by SAR backscattering (Flood in Mozambico, 2019) :cloud_with_lightning_and_rain:
    1. DInSAR processing steps
    
+Pre-event and post-event acquisitions:
+
+<img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/flood_intensity_13_3_19.jpg" width="300"> <img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/flood_intensity_19_3_19.jpg" width="320">
+
+Change detection after color manipulation:
+
+<img src="https://github.com/GioiaMancini/EarthObservationDataAnalysis/blob/main/docs/flood_RGB.jpg" width="500">
+
 
 
